@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/imranalways" target="_blank">
+<a target="_blank" href="https://github.com/imranalways">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/imran-hossain-939b621b0/" target="_blank">
