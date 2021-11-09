@@ -19,7 +19,7 @@
 <div align="center">
 </a>
  <a href="https://imranalways.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Imran%20Hossain-Portfolio-red alt=portfolio style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Imran%20Hossain-Portfolio-green alt=portfolio style="margin-bottom: 5px;" />
 </a>
  <a href="https://imranalways.github.io/Portfolio/" target="_blank">
 <img src=https://img.shields.io/badge/Imran%20Hossain-Old_Portfolio-red alt=portfolio style="margin-bottom: 5px;" />
